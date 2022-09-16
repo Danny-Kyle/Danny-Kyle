@@ -1,8 +1,6 @@
 <h3 align="center"> Hi there 👋 I'm Okechukwu Daniel but you can call me Danny-Kyle </h3>
 
 <p align="center">
-  //<a href="https://sarahdayan.dev/">Website</a> •
-  //<a href="https://frontstuff.io/">Blog</a> •
   <a href="https://twitter.com/d_kyle616">Twitter</a>
 </p>
 
@@ -19,6 +17,9 @@
 **Danny-Kyle/Danny-Kyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+<a href="https://sarahdayan.dev/">Website</a> •
+  <a href="https://frontstuff.io/">Blog</a> •
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
