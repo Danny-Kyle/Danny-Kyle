@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Okechukwu Daniel but you can call me Danny-Kyle
 
 <!--
 **Danny-Kyle/Danny-Kyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
