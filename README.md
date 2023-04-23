@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://twitter.com/d_kyle616">Twitter</a>
+  <a href="https://github.com/Danny-Kyle">Github</a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=600&lines=Welcome+to+my+github;I+am+a+Frontend+Developer,;and+Aspiring+Web-3+and+Blockchain+Developer.;Nice+to+meet+you!...)](https://git.io/typing-svg)
