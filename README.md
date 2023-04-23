@@ -9,10 +9,12 @@
 
 - 🔭  I am a Frontend Web Developer with experience using a variety of programming languages
 - 🔭 I’m currently working on finishing up with my degree and settling down, amongst other things
-- 👯 I’m looking to collaborate on React JS, Next Js and Web3 projects that you'd have
+- 👯 I’m looking to collaborate on React JS, Next Js and Angular projects that you'd have
+- 🌱 I’m currently learning Node js and ASP.Net
 - 👯 I’m looking to collaborate on Web Projects (Frontend majorly)
+- 😄 Pronouns: He/Him
 - 📫 How to reach me: dikedaniel7917@gmail.com
-- 💬 Ask me about web development
+- 💬 Ask me about web development and Manchester United
 
 <!--
 **Danny-Kyle/Danny-Kyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
