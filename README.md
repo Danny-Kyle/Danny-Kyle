@@ -15,7 +15,6 @@
 - 👯 I’m looking to collaborate on Web Projects (Frontend majorly)
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: dikedaniel7917@gmail.com
-- 💬 Ask me about web development and Manchester United
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
