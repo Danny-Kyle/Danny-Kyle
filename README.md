@@ -16,6 +16,7 @@
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: dikedaniel7917@gmail.com
 
+<!--
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Danny-Kyle&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
@@ -31,7 +32,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Danny-Kyle&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Danny-Kyle" /></p>
 
-<!--
 **Danny-Kyle/Danny-Kyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
