@@ -19,13 +19,14 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Danny-Kyle&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Danny-Kyle" /></p>
 <br>
-<p>[![Danny Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danny-Kyle&show_icons=true&hide=contribs,prs)](https://github.com/Danny-Kyle/github-readme-stats)</p>
+
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Danny-Kyle&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Danny-Kyle&show_icons=true&locale=en&hide=contribs,prs&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="Danny-Kyle" /></p>
 
 <!--
 <br>
+<p>[![Danny Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danny-Kyle&show_icons=true&hide=contribs,prs)](https://github.com/Danny-Kyle/github-readme-stats)</p>
 <br>
 
 **Danny-Kyle/Danny-Kyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
