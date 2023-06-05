@@ -21,7 +21,7 @@
 <br>
 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Danny-Kyle&show_icons=true&locale=en&hide=prs&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Danny-Kyle&show_icons=true&locale=en&hide=contribs,prs&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="Danny-Kyle" /></p>
 
 <!--
