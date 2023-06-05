@@ -5,7 +5,7 @@
   <a href="https://github.com/Danny-Kyle">Github</a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=600&lines=Welcome+to+my+github+!!!;I+am+a+Software+Developer,;and+Aspiring+Solutions+Architect.;Nice+to+meet+you!...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=600&lines=Welcome+to+my+github+!!!;I+am+a+Software+Engineer,;and+Aspiring+Solutions+Architect.;Nice+to+meet+you!...)](https://git.io/typing-svg)
 
 - 🔭 I'm on my way to becoming a Solutions Architect
 - 🔭 I am a Frontend Web Developer with experience using a variety of programming languages
@@ -27,6 +27,8 @@
     bg_color=#808080/></p>
 
 <br>
+
+<p>[![Danny Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danny-Kyle)](https://github.com/Danny-Kyle/github-readme-stats)</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Danny-Kyle&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="Danny-Kyle" /></p>
