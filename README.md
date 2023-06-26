@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning Node js and ASP.Net
 - 👯 I’m looking to collaborate on Web Projects (Frontend majorly)
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: dikedaniel7917@gmail.com
+- 📫 How to reach me: dikedaniel7917@gmail.com, daniel.okechukwu@stu.cu.edu.ng, 09160264214, 08156131209-Telegram and WhatsApp, danny_kyle_ @IG, d_kyle616 for Snap and Twitter
 
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Danny-Kyle&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Danny-Kyle" /></p>
