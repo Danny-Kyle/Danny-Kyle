@@ -25,7 +25,6 @@
     alt="Danny-Kyle" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-Kyle&theme=tokyonight&layout=compact"
     alt="Danny-Kyle" /></p>
-![Top Langs]()
 
 <!--
 <br>
