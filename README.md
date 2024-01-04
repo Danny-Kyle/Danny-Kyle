@@ -22,6 +22,15 @@
 </p>
 <br>
 
+# Github Statistics 📊
+<p align="center">
+<a href="https://github.com/Danny-Kyle">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danny-Kyle&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Danny-Kyle&layout=compact&langs_count=8&theme=dark"/>
+</a>
+</p>
+
+<!---
 <br>
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Danny-Kyle&show_icons=true&locale=en&hide=contribs,prs&bg_color=0d1117&text_color=ffffff&repo=convoychat"
@@ -31,11 +40,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-Kyle&theme=tokyonight&layout=compact"
     alt="Danny-Kyle" />
 </p>
-
-# Github Statistics 📊
-<p align="center">
-<a href="https://github.com/Danny-Kyle">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danny-Kyle&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Danny-Kyle&layout=compact&langs_count=8&theme=dark"/>
-</a>
-</p>
+---!>
