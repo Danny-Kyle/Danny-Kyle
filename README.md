@@ -17,33 +17,25 @@
 - 📫 How to reach me: dikedaniel7917@gmail.com, daniel.okechukwu@stu.cu.edu.ng, 08156131209-Telegram and WhatsApp, danny_kyle_ @IG, d_kyle616 for Snap and Twitter
 
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Danny-Kyle&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Danny-Kyle" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Danny-Kyle&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Danny-Kyle" />
+</p>
 <br>
 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Danny-Kyle&show_icons=true&locale=en&hide=contribs,prs&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="Danny-Kyle" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-Kyle&theme=tokyonight&layout=compact"
-    alt="Danny-Kyle" /></p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Danny-Kyle&show_icons=true&locale=en&hide=contribs,prs&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="Danny-Kyle" />
+</p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-Kyle&theme=tokyonight&layout=compact"
+    alt="Danny-Kyle" />
+</p>
 
-<!--
-<br>
-<p>[![Danny Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danny-Kyle&show_icons=true&hide=contribs,prs)](https://github.com/Danny-Kyle/github-readme-stats)</p>
-<br>
-
-**Danny-Kyle/Danny-Kyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-<a href="https://sarahdayan.dev/">Website</a> •
-  <a href="https://frontstuff.io/">Blog</a> •
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Github Statistics 📊
+<p align="center">
+<a href="https://github.com/Danny-Kyle">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danny-Kyle&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Danny-Kyle&layout=compact&langs_count=8&theme=dark"/>
+</a>
+</p>
