@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there 👋 I'm Okechukwu Daniel but you can call me Danny-Kyle </h3>
+<h3 align="center"> Hi there 👋 I'm Okechukwu Daniel but you can call me DannyKyle </h3>
 
 <p align="center">
   <a href="https://twitter.com/d_kyle616">Twitter</a>
