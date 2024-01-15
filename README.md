@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=600&lines=Welcome+to+my+github+!!!;I+am+a+Software+Engineer,;and+Aspiring+Solutions+Architect.;Nice+to+meet+you!...)](https://git.io/typing-svg)
 
-- 🔭 I'm on my way to becoming a Solutions Architect
+- 🔭 I aim to become a Solutions Architect
 - 🔭 I am a FullStack Web Developer with experience using a variety of programming languages
 - 🔭 I’m currently working on finishing up with my degree and settling down, amongst other things
 - 👯 I’m looking to collaborate on React JS and Next Js projects that you'd have
