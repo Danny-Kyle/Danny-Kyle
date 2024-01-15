@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Node js and ASP.Net
 - 👯 I’m looking to collaborate on Web Projects (Frontend majorly)
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: dikedaniel7917@gmail.com, daniel.okechukwu@stu.cu.edu.ng, 08156131209-Telegram and WhatsApp, danny_kyle_ @IG, d_kyle616 for Snap and Twitter
+- 📫 How to reach me: dikedaniel7917@gmail.com, daniel.okechukwu@stu.cu.edu.ng, 08156131209-Telegram and WhatsApp, danny_kyle_ @IG, d_kyle616 on X
 
 <br>
 <p>
