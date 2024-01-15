@@ -9,8 +9,7 @@
 
 - 🔭 I aim to become a Solutions Architect
 - 🔭 I am a FullStack Web Developer with experience using a variety of programming languages
-- 🔭 I’m currently working on finishing up with my degree and settling down, amongst other things
-- 👯 I’m looking to collaborate on React JS and Next Js projects that you'd have
+- 👯 I’m looking to collaborate on C#, React JS and Next Js projects that you'd have
 - 🌱 I’m currently learning Node js and ASP.Net
 - 👯 I’m looking to collaborate on Web Projects (Frontend majorly)
 - 😄 Pronouns: He/Him
