@@ -26,7 +26,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Danny-Kyle&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
   
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-Kyle&theme=tokyonight&layout=compact"
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Danny-Kyle&theme=tokyonight&layout=compact"
     alt="Danny-Kyle" />
 </p>
 <a href="https://github.com/Danny-Kyle/nextjs-fm-devjobs-app">
