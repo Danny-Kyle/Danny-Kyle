@@ -23,6 +23,10 @@
 
 # Github Statistics 📊
 <p align="center">
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?        
+   username=Danny-Kyle&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 <a href="https://github.com/Danny-Kyle">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danny-Kyle&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Danny-Kyle&layout=compact&langs_count=8&theme=dark"/>
