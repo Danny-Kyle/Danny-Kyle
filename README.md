@@ -21,6 +21,9 @@
 </p>
 <br>
 
+
+<!---
+
 # Github Statistics 📊
 <p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Danny-Kyle&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
@@ -34,8 +37,6 @@
 </a> 
 
 </p>
-
-<!---
 <br>
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Danny-Kyle&show_icons=true&locale=en&hide=contribs,prs&bg_color=0d1117&text_color=ffffff&repo=convoychat"
