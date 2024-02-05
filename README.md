@@ -23,7 +23,7 @@
 
 # Github Statistics 📊
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-Kyle&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Danny-Kyle&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
   
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-Kyle&theme=tokyonight&layout=compact"
