@@ -32,8 +32,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-Kyle&theme=tokyonight&layout=compact"
     alt="Danny-Kyle" />
 </p>
-<a href="https://github.com/Danny-Kyle/next-fm-devjobs-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Danny-Kyle&repo=next-fm-devjobs-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Danny-Kyle/nextjs-fm-devjobs-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Danny-Kyle&repo=nextjs-fm-devjobs-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
 </p>
