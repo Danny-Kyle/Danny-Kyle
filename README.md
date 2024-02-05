@@ -23,11 +23,8 @@
 
 # Github Statistics 📊
 <p align="center">
-  <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Danny- 
-   Kyle&show_icons=true&locale=en&hide=contribs,prs&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-  alt="Danny-Kyle" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-Kyle&layout=pie)](https://github.com/Danny-Kyle/github-readme-stats)
+  
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-Kyle&theme=tokyonight&layout=compact"
     alt="Danny-Kyle" />
