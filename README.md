@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://twitter.com/d_kyle616">Twitter</a>
   <a href="https://github.com/Danny-Kyle">Github</a>
-  <a href="https://stat-portfolio.vercel.app/Danny-Kyle">Link</a>
+  <a href="https://stat-portfolio.vercel.app">Link</a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=600&lines=Welcome+to+my+github+!!!;I+am+a+Software+Engineer,;and+an+Aspiring+Solutions+Architect.;Nice+to+meet+you!...)](https://git.io/typing-svg)
