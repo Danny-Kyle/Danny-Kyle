@@ -10,8 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=600&lines=Welcome+to+my+github+!!!;I+am+a+Software+Engineer,;and+an+Aspiring+Solutions+Architect.;Nice+to+meet+you!...)](https://git.io/typing-svg)
 
-- 🔭 I aim to become a Solutions Architect and Ethical H*****
-- 🔭 I am a FullStack Web Developer with experience using a variety of programming languages
+- 🔭 I am a FullStack Web Developer with experience using a variety of programming languages, aiming to become a Solutions Architect and Ethical H*****
 - 👯 I’m looking to collaborate on C#, Java, PHP, Flask, React JS and Next Js projects that you'd have
 - 🌱 I’m currently learning Node js and ASP.Net
 - 👯 I’m looking to collaborate on Web Projects
