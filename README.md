@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there 👋 I'm Okechukwu Daniel</h3>
+<h3 align="center"> Hi there 👋 I'm Danny Kyle</h3>
 
 <p align="center">
   <a href="https://twitter.com/d_kyle616">Twitter</a> •
