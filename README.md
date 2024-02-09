@@ -12,7 +12,7 @@
 
 - 🔭 I am a FullStack Web Developer with experience using a variety of programming languages, aiming to become a Solutions Architect and Ethical H*****
 - 👯 I’m looking to collaborate on C#, Java, PHP, Flask, React and Next projects that you'd have
-- 👯🌱 I’m currently learning Node and ASP.Net, and working with Graphql and Prisma. I lean more towards Typescript than JS
+- 👯🌱 I’m currently learning Node and ASP.Net, and working with Graphql and Prisma. I lean more towards Typescript than JS nowadays
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: dikedaniel7917@gmail.com, daniel.okechukwu@stu.cu.edu.ng, 08156131209-Telegram and WhatsApp, danny_kyle_ @IG, d_kyle616 on X
 
