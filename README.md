@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there 👋 I'm Danny Kyle..... </h3>
 
 <p align="center">
-  <a href="https://twitter.com/d_kyle616">Twitter</a> •
+  <a href="https://twitter.com/tru0k_dan">Twitter</a> •
   <a href="https://github.com/Danny-Kyle">Github</a> •
   <a href="https://stat-portfolio.vercel.app">Link</a>
 </p>
@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on C#, Java, PHP, Flask, React and Next projects that you'd have
 - 👯🌱 I’m currently learning Node and ASP.Net, and working with Graphql and Prisma. I lean more towards Typescript than JS nowadays
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: dikedaniel7917@gmail.com, daniel.okechukwu@stu.cu.edu.ng, 08156131209-Telegram and WhatsApp, danny_kyle_ @IG, d_kyle616 on X
+- 📫 How to reach me: dikedaniel7917@gmail.com, daniel.okechukwu@stu.cu.edu.ng, 08156131209-Telegram and WhatsApp, tru0k.dan @IG, tru0k_dan on X
 
 <br>
 <p>
