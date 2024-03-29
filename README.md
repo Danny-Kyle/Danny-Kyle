@@ -31,7 +31,8 @@
   <br>
 
 # Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-red?style=for-the-badge&logo=python) ![C++](https://img.shields.io/badge/c%2B%2B-purple?style=for-the-badge&logo=cplusplus) ![C](https://img.shields.io/badge/c-blue?style=for-the-badge&logo=c) ![Java](https://img.shields.io/badge/java-blue?style=for-the-badge&logo=apachenetbeanside)
 
 ## Frontend Tools:
 ![Typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
@@ -40,7 +41,8 @@
 ![React](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react)
 
 ## Backend Tools:
-![.NET](https://img.shields.io/badge/.net-purple?style=for-the-badge&logo=dotnet) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/java-blue?style=for-the-badge&logoColor=blue) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![.NET](https://img.shields.io/badge/.net-purple?style=for-the-badge&logo=dotnet) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+
 
 
 <br>
