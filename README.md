@@ -34,13 +34,13 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## Frontend Tools:
-![Typescript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logoColor=blue)
-![Javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logoColor=blue)
+![Typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
+![Javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
 ![Next](https://img.shields.io/badge/next-black?style=for-the-badge&logo=nextdotjs)
 ![React](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react)
 
 ## Backend Tools:
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/java-blue?style=for-the-badge&logoColor=blue) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![.NET](https://img.shields.io/badge/.net-purple?style=for-the-badge&logo=dotnet) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/java-blue?style=for-the-badge&logoColor=blue) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 
 <br>
