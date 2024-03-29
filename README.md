@@ -17,6 +17,23 @@
 - 📫 How to reach me: dikedaniel7917@gmail.com, daniel.okechukwu@stu.cu.edu.ng, 08156131209-Telegram and WhatsApp, tru0k.dan @IG, tru0k_dan on X
 
 <br>
+
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Danny-kyle&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Danny-kyle" /> 
+  </p>
+
+  <br>
+
+# Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+## Frontend Tools:
+
+## Backend Tools:
+
+## Databases: 
+
+<br>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Danny-Kyle&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Danny-Kyle" />
 </p>
