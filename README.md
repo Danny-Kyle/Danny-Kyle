@@ -17,6 +17,12 @@
 - 📫 How to reach me: dikedaniel7917@gmail.com, daniel.okechukwu@stu.cu.edu.ng, 08156131209-Telegram and WhatsApp, tru0k.dan @IG, tru0k_dan on X
 
 <br>
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=danny-kyle&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="flvmbo" 
+    bg_color=#808080/></p>
+<br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Danny-kyle&label=Profile%20views&color=0e75b6&style=flat"
     alt="Danny-kyle" /> 
@@ -30,8 +36,6 @@
 ## Frontend Tools:
 
 ## Backend Tools:
-
-## Databases: 
 
 <br>
 <p>
