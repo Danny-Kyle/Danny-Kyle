@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://twitter.com/tru0k_dan">Twitter</a> •
   <a href="https://github.com/Danny-Kyle">Github</a> •
-  <a href="https://stat-portfolio.vercel.app">Link</a>
+  <a href="https://stat-portfolio.vercel.app">Portfolio</a>
 </p>
 
 ---
