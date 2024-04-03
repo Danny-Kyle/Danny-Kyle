@@ -24,7 +24,7 @@
     bg_color=#808080/></p>
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-Kyle&exclude_repo=DSS-proj&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-Kyle&exclude_repo=DSS-proj&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&text_color=ffffff"/>
 <br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Danny-kyle&label=Profile%20views&color=0e75b6&style=flat"
