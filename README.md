@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on C#, Java, PHP, Python, React and Next projects that you'd have
 - 👯🌱 I’m currently learning Node and ASP.Net, and working with Graphql and Prisma. I lean more towards Typescript than JS nowadays
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: dikedaniel7917@gmail.com, daniel.okechukwu@stu.cu.edu.ng, 08156131209-Telegram and WhatsApp, tru0k.dan @IG, tru0k_dan on X
+- 📫 How to reach me: dikedaniel7917@gmail.com, tru0k_dan on X
 
 <br>
 <h3>Statistical Data :-</h3>
@@ -52,6 +52,8 @@
 
 
 <!---
+
+, daniel.okechukwu@stu.cu.edu.ng, 08156131209-Telegram and WhatsApp, tru0k.dan @IG
 
 # Github Statistics 📊
 <p><img align="center"
