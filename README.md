@@ -10,8 +10,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=600&lines=Welcome+to+my+github+!!!;I+am+a+Software+Engineer,;and+an+Aspiring+Solutions+Architect.;Nice+to+meet+you!...)](https://git.io/typing-svg)
 
-- 🔭 I am a FullStack Web Developer with experience using a variety of programming languages, aiming to become a Solutions Architect and Ethical H*****
-- 👯 I’m looking to collaborate on C#, Java, PHP, Flask, React and Next projects that you'd have
+- 🔭 I am a FullStack Web Developer with experience using a variety of programming languages, aiming to become a Solutions Architect 
+- 👯 I’m looking to collaborate on C#, Java, PHP, Python, React and Next projects that you'd have
 - 👯🌱 I’m currently learning Node and ASP.Net, and working with Graphql and Prisma. I lean more towards Typescript than JS nowadays
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: dikedaniel7917@gmail.com, daniel.okechukwu@stu.cu.edu.ng, 08156131209-Telegram and WhatsApp, tru0k.dan @IG, tru0k_dan on X
